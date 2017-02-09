@@ -6,20 +6,26 @@
       {
         "vendorName":"Zales",
         "price":"584",
-        "avaialbleQuantity":"3",
-        "product_id":"ZL-Braclet-110"
+        "quantity":"3",
+        "product_id":"ZL-Braclet-110",
+        "intuitSponsored": false,
+        "message":""
       },
       {
         "vendorName":"Ben Bridge",
         "price":"567",
-        "avaialbleQuantity":"1",
-        "product_id":"BB-B-170-110"
+        "quantity":"1",
+        "product_id":"BB-B-170-110",
+        "intuitSponsored": true,
+        "message": "Celebrate with Intuit this Valentines day! 15% off every purchase $399 and above."
       },
       {
         "vendorName":"Shane & co",
         "price":"532",
-        "avaialbleQuantity":"5",
-        "product_id":"SCO-DB-170110"
+        "quantity":"5",
+        "product_id":"SCO-DB-170110",
+        "intuitSponsored": true,
+        "message":"As a valued Intuit customer, you got 10% of for every purchase $500 and above."
       }
     ]
   },
@@ -30,14 +36,18 @@
       {
         "vendorName":"BevMo",
         "price":"55.99",
-        "avaialbleQuantity":"17",
-        "product_id":"BM-014-01"
+        "quantity":"17",
+        "product_id":"BM-014-01",
+        "intuitSponsored": true,
+        "message":"Celebrate with Intuit this Valentines day! 5% off every purchase $30 and above."
       },
       {
         "vendorName":"Safeway",
         "price":"62.99",
-        "avaialbleQuantity":"23",
-        "product_id":"SF001002"
+        "quantity":"23",
+        "product_id":"SF001002",
+        "intuitSponsored": true,
+        "message":"Earn your cash rewards and get huge discounts in the near future."
       }
     ]
   }

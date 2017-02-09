@@ -18,7 +18,6 @@ public class Offer {
     private List<AvailableOffer> availableOffers;
 
 
-
     public String getSku() {
         return sku;
     }

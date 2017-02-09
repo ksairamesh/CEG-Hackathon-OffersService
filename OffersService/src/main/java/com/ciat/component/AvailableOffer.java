@@ -16,6 +16,24 @@ public class AvailableOffer {
     private int quantity;
     private String product_id;
 
+    public boolean isIntuitSponsored() {
+        return intuitSponsored;
+    }
+
+    public void setIntuitSponsored(boolean intuitSponsored) {
+        this.intuitSponsored = intuitSponsored;
+    }
+
+    private boolean intuitSponsored;
+    private String message;
+
+    public String getMessage() {
+        return message;
+    }
+
+    public void setMessage(String message) {
+        this.message = message;
+    }
 
     public String getVendorName() {
         return vendorName;

@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="OffersService" />
+        <module name="CIAT-offers" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="OffersService" target="1.8" />
+      <module name="CIAT-offers" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OffersService.iml" filepath="$PROJECT_DIR$/OffersService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CIAT-offers.iml" filepath="$PROJECT_DIR$/CIAT-offers.iml" />
     </modules>
   </component>
 </project>
