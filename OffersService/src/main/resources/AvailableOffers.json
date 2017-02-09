@@ -1,0 +1,44 @@
+[
+  {
+    "sku":"170-110",
+    "productName":"Diamond bracelet",
+    "availableOffers":[
+      {
+        "vendorName":"Zales",
+        "price":"584",
+        "avaialbleQuantity":"3",
+        "product_id":"ZL-Braclet-110"
+      },
+      {
+        "vendorName":"Ben Bridge",
+        "price":"567",
+        "avaialbleQuantity":"1",
+        "product_id":"BB-B-170-110"
+      },
+      {
+        "vendorName":"Shane & co",
+        "price":"532",
+        "avaialbleQuantity":"5",
+        "product_id":"SCO-DB-170110"
+      }
+    ]
+  },
+  {
+    "sku":"014",
+    "productName":"MACALLAN SCOTCH 12 YEAR (750 ML)",
+    "availableOffers":[
+      {
+        "vendorName":"BevMo",
+        "price":"55.99",
+        "avaialbleQuantity":"17",
+        "product_id":"BM-014-01"
+      },
+      {
+        "vendorName":"Safeway",
+        "price":"62.99",
+        "avaialbleQuantity":"23",
+        "product_id":"SF001002"
+      }
+    ]
+  }
+]

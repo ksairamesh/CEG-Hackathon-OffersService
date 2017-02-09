@@ -1,0 +1,7 @@
+com/ciat/controller/OffersController.class
+util/JSONUtil.class
+service/OffersService.class
+com/ciat/OffersApplication.class
+com/ciat/component/AvailableOffer.class
+com/ciat/component/Response.class
+com/ciat/component/Offer.class
